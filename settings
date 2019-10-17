@@ -1,0 +1,2 @@
+1) In case of browser connecting problems:
+command line: jupyter-notebook --notebook-dir "name of the directory"
